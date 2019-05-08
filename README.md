@@ -1,4 +1,4 @@
-# Fanshawe Css3 Course Work
+# Fanshawe CSS3 Course Work
 Course work for the CSS3 class at Fanshawe College. The repository will be split by week where all course and assignment files will be found.
 ## Weekly Breakdown
 
