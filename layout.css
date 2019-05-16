@@ -38,7 +38,32 @@ textarea:optional {
 		background-color:grey;
 }
 
+/*Week3 - Descendant Assignment*/
 
+h1 b {color:orange;}
+
+p label b {color:yellow;}
+
+
+/*Week 3 - Child selector Assignment */
+
+p> label> input {color:red;}
+
+p> label> textarea {color:orange;}
+
+
+/*Week 3 - Sibling selector Assignment */
+
+h1 ~ p {color:white;}
+
+ 
+
+/*Week 3 - Adjacent Sibling selector Assignment */
+
+
+h2 + p {font-style:italic;}
+
+/* commenting out smartphone for Week3
 *,
 *:before,
 *:after {
@@ -76,7 +101,7 @@ button {
 	float: left;
 	padding: 8px 16px;
 }
-
+/*
 	
 	
 	
